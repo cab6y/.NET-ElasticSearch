@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\VisualProjects\\.NET-ELASTICSEARCH\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A6BA1A6A-7092-403D-9B21-18FC20A1F290}|ElasticSearch-NET-ANGULAR\\ElasticSearch-NET-ANGULAR.csproj|c:\\visualprojects\\.net-elasticsearch\\elasticsearch-net-angular\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6BA1A6A-7092-403D-9B21-18FC20A1F290}|ElasticSearch-NET-ANGULAR\\ElasticSearch-NET-ANGULAR.csproj|solutionrelative:elasticsearch-net-angular\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\VisualProjects\\.NET-ELASTICSEARCH\\ElasticSearch-NET-ANGULAR\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ElasticSearch-NET-ANGULAR\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\VisualProjects\\.NET-ELASTICSEARCH\\ElasticSearch-NET-ANGULAR\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ElasticSearch-NET-ANGULAR\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T17:08:33.863Z",
-              "EditorCaption": ""
             }
           ]
         }

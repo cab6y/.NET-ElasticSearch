@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElasticSearch-NET-ANGULAR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+829c6c8aba5c2146abab443abb176081931378ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4eb84c3d427948b3c583cc273943aca0ece5af1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElasticSearch-NET-ANGULAR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElasticSearch-NET-ANGULAR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
